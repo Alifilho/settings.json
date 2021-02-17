@@ -21,9 +21,16 @@
   "explorer.compactFolders": false,
   "explorer.confirmDragAndDrop": false,
   "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
   },
   "workbench.colorTheme": "Omni",
   "editor.formatOnSave": true,
-  "extensions.ignoreRecommendations": false
+  "extensions.ignoreRecommendations": false,
+  "terminal.explorerKind": "external",
+  "prettier.singleQuote": true,
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "liveServer.settings.donotVerifyTags": true,
+  "git.autofetch": true
 }
