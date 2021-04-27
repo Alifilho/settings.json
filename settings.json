@@ -31,6 +31,7 @@
   "prettier.singleQuote": true,
   "javascript.preferences.quoteStyle": "single",
   "typescript.preferences.quoteStyle": "single",
+  "workbench.tree.expandMode": "singleClick",
   "liveServer.settings.donotVerifyTags": true,
   "git.autofetch": true
 }
